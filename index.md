@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Novidades da versão
 
-You can use the [editor on GitHub](https://github.com/directon/youk-changelog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Youk Manager 1.2.0 (14/12/2021)
+### 🚀 Novo
 
-### Markdown
+- `Assinatura digital [YM-37]` - Foi criado um novo recurso para o usuário conseguir assinar digitalmente o seu próprio documento. O gestor também saberá se o documento foi (baixado / visualizado) e assinado. Desta forma, o controle sobre os eventos enviados será maior, trazendo mais segurança e mais detalhes para a gestão.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- `Assinatura digital [YM-87]` - Criada uma nova opção na tela de importação do arquivo para o gestor escolher se o arquivo é assinável.
 
-```markdown
-Syntax highlighted code block
+### 🌟 Melhorias
 
-# Header 1
-## Header 2
-### Header 3
+- `Cadastro de empresas [YM-74]` - Agora também será possível fazer o cadastro de empresas com CAEPF e CNO.
 
-- Bulleted
-- List
+- `Proteção de importação [YM-101]` - Proteção para que não seja possível importar um documento de folha de pagamento em férias.
 
-1. Numbered
-2. List
+### 🔧 Correções
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/directon/youk-changelog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- `Listagem de empresas [YM-77]` - Realizada uma correção para que seja possível ordenar as empresas por nome curto.
+ 
+---

@@ -5,3 +5,7 @@
 $section-headings-color: #2dbbaa !default;
 
 @import "{{ site.theme }}";
+
+html {
+  background-color: gray;
+}

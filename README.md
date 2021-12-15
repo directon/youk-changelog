@@ -1,5 +1,5 @@
 # Flit ChangeLog
 
-[Ver site - github.io](https://directon.github.io/flit-changelog/)
+[Ver site - github.io](https://directon.github.io/youk-changelog/)
 
-[Ver site - Dominio customizado](https://supnovidades.flitapp.com.br/)
+[Ver site - Dominio customizado](https://supnovidades.youk.com.br/)

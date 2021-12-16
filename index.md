@@ -5,7 +5,7 @@
 ### Youk Manager 1.2.0 (14/12/2021)
 ### 🚀 Novo
 
-- `Assinatura digital [YM-37]` - Foi criado um novo recurso para o usuário conseguir assinar digitalmente o seu próprio documento. O gestor também saberá se o documento foi (baixado / visualizado) e assinado. Desta forma, o controle sobre os eventos enviados será maior, trazendo mais segurança e mais detalhes para a gestão.
+- `Assinatura digital [YM-37]` - Foi criado um novo recurso para o usuário conseguir assinar digitalmente os documentos recebidos. O gestor também saberá se o documento foi (baixado / visualizado) e assinado. Desta forma, o controle sobre os eventos enviados será maior, trazendo mais segurança e mais detalhes para a gestão.
 
 - `Assinatura digital [YM-87]` - Criada uma nova opção na tela de importação do arquivo para o gestor escolher se o arquivo é assinável.
 

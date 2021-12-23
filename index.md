@@ -1,8 +1,18 @@
 # Novidades da versão
+---
+## Youk App 1.2.0 (22/12/2021)
+
+### 🚀 Novo
+
+- `Assinatura digital [YA-17]` - Novo recurso onde o colaborador consegue assinar digitalmente os documentos assináveis recebidos.
+
+### 🌟 Melhorias
+
+- `Interface [YA-87]` - Melhoria na tela principal, agora todos os eventos importados serão mostrados na aba "Recentes".
 
 ---
 
-### Youk Manager 1.2.0 (14/12/2021)
+## Youk Manager 1.2.0 (14/12/2021)
 ### 🚀 Novo
 
 - `Assinatura digital [YM-37]` - Foi criado um novo recurso para o usuário conseguir assinar digitalmente os documentos recebidos. O gestor também saberá se o documento foi (baixado / visualizado) e assinado. Desta forma, o controle sobre os eventos enviados será maior, trazendo mais segurança e mais detalhes para a gestão.

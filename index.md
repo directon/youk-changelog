@@ -11,6 +11,7 @@
 ### 🔧 Correções
 
 - `Envio de documentos (Planilha) [YM-124]` - Foi criada uma proteção para não deixar importar uma planilha com duas ou mais férias do mesmo ano para o mesmo colaborador.
+
 ---
 ## Youk App 1.2.0 (22/12/2021)
 

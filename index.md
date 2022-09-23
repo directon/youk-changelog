@@ -1,9 +1,17 @@
 # Novidades da versão
+
 ---
+
+### Youk App v1.4.0 (22/09/2022) 
+### 🚀Novo 
+- `Login por CPF [YA-16]` - Agora o acesso ao aplicativo é realizado pelo CPF do usuário.
+- `Redefinição de senha pelo CPF[YA-71]` - Agora a solicitação de redefinição de senha do aplicativo é pelo CPF do usuário. Sendo enviado o link de alteração de senha para o e-mail cadastrado.
+- `Recuperação da Conta[YA-72]` - Criado recurso para o usuário solicitar a recuperação da conta. A recuperação da conta é indicada quando o usuário realizou cadastro com algum dado incorreto.
+
+---
+
 ## Youk Manager 1.2.1 (19/01/2022)
-
 ### 🌟 Melhorias
-
 - `Envio de documentos (Arquivos) [YM-111]` - Proteção para que só seja possível clicar em enviar arquivo uma única vez.
 
 - `Envio de documentos (Arquivos) [YM-111]` - Realizada uma melhoria visual na tela de envio de documentos onde mostrará quantos eventos estão na fila, quantos ainda faltam enviar e também o status de envio.

@@ -2,7 +2,7 @@
 
 ---
 
-### Youk App v1.4.0 (22/09/2022) 
+## Youk App v1.4.0 (22/09/2022) 
 ### 🚀Novo 
 - `Login por CPF [YA-16]` - Agora o acesso ao aplicativo é realizado pelo CPF do usuário.
 - `Redefinição de senha pelo CPF[YA-71]` - Agora a solicitação de redefinição de senha do aplicativo é pelo CPF do usuário. Sendo enviado o link de alteração de senha para o e-mail cadastrado.

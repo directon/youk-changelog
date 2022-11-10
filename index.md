@@ -7,7 +7,9 @@
 ### 🚀Novo
 
 - `Login por CPF [YA-16]` - Agora o acesso ao aplicativo é realizado pelo CPF do usuário.
+
 - `Redefinição de senha pelo CPF[YA-71]` - Agora a solicitação de redefinição de senha do aplicativo é pelo CPF do usuário. Sendo enviado o link de alteração de senha para o e-mail cadastrado.
+
 - `Recuperação da Conta [YA-72]` - Criado recurso para o usuário solicitar a recuperação da conta. A recuperação da conta é indicada quando o usuário realizou cadastro com algum dado incorreto.
 
 ---

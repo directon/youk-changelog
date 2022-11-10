@@ -2,9 +2,49 @@
 
 ---
 
+## Youk App 1.5.0 (09/11/2022)
+
+### 🚀 Novo
+
+- `Solicitação de vinculo com a empresa [YA-93]` - Após a criação da conta pelo usuário, o sistema vai apresentar todas as empresas já vinculadas para ele, podendo aceitar ou recusar cada vinculo.
+
+- `Usuário solicitar a exclusão da conta [YA-94]` - Criado novo recurso para que o usuário consiga fazer a solicitação da exclusão da sua conta através do aplicativo.
+
+---
+
+## Youk Manager 1.3.0 (10/11/2022)
+
+### 🌟 Melhorias
+
+- `Importação de arquivo [YM-193]` - Melhoria na importação de eventos/colaboradores por arquivo para aceitar campos de datas com formato fora do esperado.
+
+- `Cadastro de colaborador [YM-167]` - Agora o gestor consegue cadastrar o colaborador direto pelo manager, mesmo que o colaborador não tenha feito o cadastro pelo aplicativo previamente.
+
+- `Status do colaborador [YM-170]` - Adicionado um novo campo de status do colaborador, são eles: Pendente, Aceito e Rejeitado. (Esses status irão indicar para o gestor se o colaborador aceitou ou não receber comprovantes da empresa).
+
+- `Filtro de status [YM-172]` - Na aba colaboradores foi adicionado um novo filtro de "Status".
+
+- `Histórico de recibos [YM-177]` - Foi adicionado uma nova coluna chamada de "Status entrega", onde o gestor conseguirá saber se o recibo foi entregue, se está aguardando aprovação do colaborador ou se foi rejeitado.
+
+- `Histórico de recibos [YM-175]` - Agora o gestor consegue fazer o envio do recibo mesmo que o colaborador não tenha feito o cadastro previamente no aplicativo.
+
+- `Histórico de recibos [YM-189]` - Agora será possível exportar em xlxs ou csv os dados filtrados no grid.
+
+- `Importação de colaborador [YM-200]` - Removida a obrigatoriedade de fornecer um CEP válido.
+
+- `Eventos [YM-180]` - Removida a obrigatoriedade de fornecer um CEP válido.
+
+- `Exclusão de conta [YM-212]` - Caso o colaborador exclua sua conta, o status de vínculo dele passará a ser "ENCERRADO".
+
+- `Recibos em PDF [YM-216]` - O CPF do colaborador passou a aparecer no local do que antes era o "código_único".
+
+- `Recibo de férias [YM-222]` - Os campos: faltas, periodo_aquisitivo, aliquota_inss e data_notificacao, passam a ser obrigatórios.
+
+---
+
 ## Youk App 1.4.0 (22/09/2022)
 
-### 🚀Novo
+### 🚀 Novo
 
 - `Login por CPF [YA-16]` - Agora o acesso ao aplicativo é realizado pelo CPF do usuário.
 

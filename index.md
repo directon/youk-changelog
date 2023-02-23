@@ -2,6 +2,38 @@
 
 ---
 
+## Youk Manager 1.4.0 (23/02/2023)
+
+### 🚀 Novo
+
+- `Colaboradores [YM-240]` - Agora no cadastro de colaboradores, existe a possibilidade de filtrar por usuários: "Ativos, desligados e todos".
+
+- `Informe de rendimentos [YM-204]` - Disponibilizamos o envio de informe de rendimentos através do formato PDF.
+
+- `Site do App [YM-318]` - No canto superior direito, foi adicionado uma opção para acessar o link do aplicativo, onde terão todas as informações do aplicativo, link da loja, especificações técnicas, etc.
+
+- `Mural de avisos [YM-232]` - Agora, o gestor conseguirá enviar avisos que será exibido no aplicativo dos funcionários em forma de "Mural de avisos", podendo utilizar imagens, links e mensagens. O Envio desses avisos podem ser feitos por empresa, departamento ou grupo de pessoas. Ou seja, você pode disponibilizar vários avisos de forma personalizada separando por essas 3 opções: empresa, departamento ou grupo.
+
+### 🌟 Melhorias
+
+- `Tutorial de transmissão dos recibos [YM-282]` - Ajuste interno no tutorial, e também, incluímos o tutorial de exportação da Prosoft.
+
+- `Importação de colaborador [YM-306]` - Ajuste interno na importação de colaboradores por planilha, para que, quando o usuário tiver uma data de desligamento preenchida na planilha, esse será desligado na plataforma de gestão, possibilitando fazer desligamentos coletivos com mais facilidade.
+
+- `Importação de colaborador [YM-310]` - Ajuste interno na importação de colaboradores para que ela não seja mais interrompida quando na planilha já existe um colaborador cadastrado. Dessa forma, a importação continuará e caso tenha uma nova informação na planilha do funcionário já cadastrado, essa informação também será atualizada na plataforma.
+
+- `Importação de colaborador [YM-290]` - Passou a ser possível importar colaboradores de empresas com: "CNO e CAEPF".
+
+- `Cadastro de colaborador [YM-230]` - Agora, é possível cadastrar usuários com o mesmo CPF em empresas diferentes.
+
+- `Importação de eventos [YM-314]` - Caso faça a transmissão de recibos e na planilha tenha algum colaborador que ainda não está cadastrado na plataforma de gestão, o sistema vai cadastrar esse funcionário com os dados que tem na planilha de recibos, e a transmissão dos eventos continuará sendo feita normalmente.
+
+### 🔧 Correções
+
+- `Importação de colaborador [YM-296]` - Ajuste interno no arquivo de exemplo da importação de colaboradores.
+
+---
+
 ## Youk App 1.5.0 (10/11/2022)
 
 ### 🚀 Novo

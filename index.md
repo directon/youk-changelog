@@ -2,6 +2,14 @@
 
 ---
 
+## Youk Manager 1.5.0 (17/03/2023)
+
+### 🚀 Novo
+
+- `Permissão de acesso [YM-228]` - Agora é possível configurar qual empresa o gestor poderá visualizar.
+
+---
+
 ## Youk Manager 1.4.0 (23/02/2023)
 
 ### 🚀 Novo

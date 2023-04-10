@@ -2,6 +2,26 @@
 
 ---
 
+## Youk Manager 1.5.1 (10/04/2023)
+
+### 🌟 Melhorias
+
+-`Importação de colaboradores [YM-347]` - A importação do colaborador passa a cadastrar o departamento e o grupo caso ainda não estejam cadastrados.
+
+-`Importação de colaboradores [YM-349]` - O tamanho do campo de departamento e grupo foram ajustados para um total de 50 caracteres.
+
+-`Importação de colaboradores [YM-356]` - As mensagens de retorno de importação foram melhoradas para que fique mais fácil de entender o que houve na hora da importação.
+
+-`Importação de colaboradores [YM-358]` - Ajuste interno para importar corretamente a planilha se na mesma existirem pessoas com data de desligamento e pessoas novas. Assim, o sistema vai desligar quem possuir data de desligamento e cadastrar os demais.
+
+-`Recibos [YM-383]` - Aumentamos o tamanho dos campos cargo, nome da empresa e nome do usuário.
+
+-`Recibos [YM-383]` - Ajuste interno para aumentar o tamanho dos campos do cargo, nome da empresa e nome do usuário nos recibos.
+
+-`Importação de recibos [YM-386]` - Foi limitado o máximo de caracteres permitidos no campo cargo para 50, ou seja, caso na importação o campo cargo tenha um nome maior que 50 dígitos, será importado com a quantidade máxima de 50 dígitos.
+
+---
+
 ## Youk Manager 1.5.0 (17/03/2023)
 
 ### 🚀 Novo

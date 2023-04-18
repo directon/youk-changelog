@@ -2,6 +2,28 @@
 
 ---
 
+## Youk Manager 1.6.0 (18/04/2023)
+
+### 🌟 Melhorias
+
+-`Importação de recibos [YM-347]` - Melhoria na importação de recibos, para que seja separada por departamento e função, se na importação for identificado que é para o mesmo funcionário, porém, o departamento ou função forem diferentes, serão separados.
+
+-`Cadastro de colaborador [YM-316]` - Melhoria para permitir exportar a listagem de colaboradores em CSV ou XLSX.
+
+-`Importação de recibos [YM-342]` - Melhoria no campo de "Aviso" do recibo de folha de pagamento, para que leve esta informação, caso tenha.
+
+-`Cadastro de colaborador [YM-389]` - Melhoria nos filtros do cadastro de colaborador, para que as combinações de "Situação" e "Status" fiquem mais precisas.
+
+-`Importação de colaborador [YM-392]` - Melhoria na mensagem da importação do colaborador, para quando existir mais de 1000 linhas na planilha, fique visível a quantidade limite de importação por planilha.
+
+-`Importação de recibos [YM-400]` - Melhoria para permitir cadastrar o colaborador através da importação de recibo, mesmo que estiver desativado, caso ele ainda não tenha sido registrado.
+
+### 🔧 Correções
+
+-`Importação de recibos [YM-400]` - Ajuste interno ao importar o recibo de funcionários demitidos, para que os colaboradores não sejam reativados.
+
+---
+
 ## Youk Manager 1.5.1 (10/04/2023)
 
 ### 🌟 Melhorias

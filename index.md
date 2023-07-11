@@ -6,7 +6,7 @@
  
 ### 🚀 Novo
  
-- `Evento de folha complementar [YM - 302]` -  Criado a possibilidade de enviar o evento de folha de pagamento complementar dentro da plataforma Youk Manager.
+- `Evento de folha complementar [YM-302]` -  Criado a possibilidade de enviar o evento de folha de pagamento complementar dentro da plataforma Youk Manager.
  
 ### 🌟 Melhorias
  

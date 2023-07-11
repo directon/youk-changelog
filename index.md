@@ -2,6 +2,27 @@
 
 ---
 
+## Youk Manager v1.7.0 (11/07/2023)
+ 
+### 🚀 Novo
+ 
+- `Evento de folha complementar [YM - 302]` -  Criado a possibilidade de enviar o evento de folha de pagamento complementar dentro da plataforma Youk Manager.
+ 
+### 🌟 Melhorias
+ 
+- `Assinatura digital [YM-257]` - Melhoria na assinatura digital. A partir de agora, o funcionário consegue visualizar a assinatura e é criado um documento levando esta assinatura anexa ao recibo. O colaborador e o gestor conseguem visualizar o documento assinado. 
+
+- `Envio documentos [YM-445]` - Ajuste interno na aba "Enviar", para enviar documentos (arquivos) apenas no formato de PDF, não aceitando mais imagens e outros tipos.
+
+- `Colaborador [YM-424]` - Ajuste para que não seja possível alterar o colaborador para outra empresa, depois do mesmo ter aceitado o vínculo através do Youk App.
+
+ 
+### 🔧 Correções
+ 
+- `Histórico envio de documentos [YM-459]` - Ajuste interno para não carregar os dados de outra conta, caso saia de uma conta e acesse outra, através do mesmo navegador.
+
+---
+
 ## Youk Manager 1.6.0 (18/04/2023)
 
 ### 🌟 Melhorias

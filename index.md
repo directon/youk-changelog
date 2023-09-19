@@ -2,6 +2,32 @@
 
 ---
 
+## Youk Manager v1.8.0 (18/09/2023)
+ 
+### 🌟 Melhorias
+ 
+- `Histórico/Envio de documentos [YM-501]` - Ajuste interno nas abas "Histórico" e "Transmitir Recibos",  para melhorar a performance dos processamentos, garantindo assim maior velocidade.
+
+- `Envio de documentos [YM-443]` - Ajuste interno na aba "Enviar", para que ao editar o  envio de documentos, o sistema leve a configuração correta nos campos assinar eventos, retificar eventos e método de importação. 
+
+- `Cadastro do colaborador [YM-7]` - A partir de agora, no cadastro de colaborador, quando estiver cadastrando um novo  e tiver apenas uma empresa cadastrada na plataforma, o sistema  irá inserir no campo "Empresa" a única empresa cadastrada. 
+
+- `Colaboradores [YM-68]` - Ajuste interno na aba "Colaboradores" para que o campo "Buscar" localize pelo nome do colaborador, documento e nome da empresa. 
+
+- `Mural de avisos [YM-326]` - Melhoria na aba de "Mural de avisos", para que seja  possível pesquisar o nome ou documento do colaborador que está vinculado ao aviso. 
+
+- `Mural de avisos [YM-325]` - Ajuste interno na aba "Mural de avisos", para exibir os avisos excluídos apenas se filtrar por "Excluídos"
+
+- `Mural de avisos [YM-324]` - Melhoria na aba "Mural de avisos", para que seja possível incluir um colaborador quando o aviso estiver com o status de "Exibindo" ou  "Aguardando exibição".
+
+- `Mural de avisos [YM- 462]` - Ajuste interno na aba “Mural de avisos” para criar o aviso selecionando a empresa, departamento e o grupo que o colaborador pertence. 
+
+### 🔧 Correções
+ 
+- `Colaboradores  [YM-442]` - Ajuste interno na aba "Colaboradores", para ao importar os colaboradores exibir a mensagem de aviso sobre quantos colaboradores estão ultrapassando a quantidade disponível na licença. 
+
+---
+
 ## Youk Manager v1.7.0 (11/07/2023)
  
 ### 🚀 Novo

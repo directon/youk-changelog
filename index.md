@@ -2,6 +2,24 @@
 
 ---
 
+## Nome do App v1.9.0 (21/11/2023)
+ 
+### 🚀 Novo
+ 
+- `Envio de outros tipos de documentos  [YM-256]` - A partir de agora, é possível enviar outros tipos de documentos em formato PDF, como por exemplo: “Notificação de advertência”, “Espelho de Ponto” ou qualquer outro que deseje enviar ao colaborador. Através da plataforma de gestão, você poderá criar os “tipos de eventos” que deseja enviar, e depois através da aba “enviar documentos”, você transmite aos colaboradores esses documentos. O modo de salvar os documentos em uma pasta deverá ser o mesmo que os demais, contendo na descrição do arquivo um dos dados: CPF, nome do colaborador, código externo ou código do cartão de ponto.  
+ 
+- `Notificações do mural de aviso [YM-508]` - Novo recurso de notificação para o mural de avisos. Agora, quando for criado um novo mural de aviso, é possível notificar o colaborador. Essa notificação é configurada no momento em que cria o aviso, através dela poderá notificar o funcionário imediatamente ou até mesmo agendar a notificação com a data e hora de quando deseja notificar.
+ 
+### 🌟 Melhorias
+ 
+- `Importar colaboradores [YM-404]` - Melhoria interna para aumentar o limite de usuários a serem importados por planilha. Agora é possível importar até 2000 colaboradores no mesmo arquivo.
+ 
+- `Cadastro de colaboradores [YM-524]` - Melhoria no cadastro dos colaboradores, para quando mais de um gestor estiver com o cadastro do colaborador aberto e realizar alterações, será apresentado o ícone “atualizar formulário” e ao clicar o cadastro será atualizado. 
+ 
+- `Contador de colaboradores [YM-538]` - Melhoria interna, para quando criar ou excluir um colaborador, o contador de colaboradores seja atualizado de imediato. 
+
+---
+
 ## Youk Manager v1.8.0 (18/09/2023)
  
 ### 🌟 Melhorias

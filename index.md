@@ -6,7 +6,7 @@
 
 ### 🚀 Novo
 
-- Sistema de notificação [YM -23] - Criado novo recurso para envio de notificações. Basta acessar a plataforma de gestão, através da aba "comunicação", clicar em "sistema de notificação". Aqui será possível enviar notificação para os colaboradores, incluindo título e a mensagem da notificação que deseja enviar. Você pode ainda enviar a notificação filtrando por empresa, departamento ou por grupo. Os gestores conseguem visualizar o status da notificação, filtrando por agendado, enviado, cancelado e excluído. Ao abrir a notificação, é possível acompanhar o status da mesma, para cada funcionário. Assim ficará sabendo se a notificação está pendente de envio, enviada, entregue ou se já foi visualizada pelo colaborador.  
+- Sistema de notificação [YM-23] - Criado recurso para envio de notificações. Basta acessar a plataforma de gestão, através da aba "comunicação", clicar em "sistema de notificação". Aqui será possível enviar notificação para os colaboradores, incluindo título e a mensagem da notificação que deseja enviar. Você pode ainda enviar a notificação filtrando por empresa, departamento ou por grupo. Os gestores conseguem visualizar o status da notificação, filtrando por agendado, enviado, cancelado e excluído. Ao abrir a notificação, é possível acompanhar o status da mesma, para cada funcionário. Assim ficará sabendo se a notificação está pendente de envio, enviada, entregue ou se já foi visualizada pelo colaborador.  
   
 ### 🌟 Melhorias  
 

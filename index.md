@@ -1,16 +1,40 @@
 # Novidades da versão
 
+## Youk Manager v1.9.4 (24/06/2024)
+ 
+### 🚀 Novo
+ 
+- `Envio de documentos [YM-569]` - Novo recurso na tela do envio de documentos. A partir de agora, será possível incluir a assinatura da empresa, do gestor e do funcionário no documento. Ao realizar o envio do documento por colaborador, ficará disponível a opção "Adicionar assinaturas". O documento será pré-assinado pela empresa e o gestor que realizará o envio. Ao incluir a assinatura, será possível posiciona-la no documento. Para que o gestor possa incluir o signatário no documento, basta acessar o menu lateral, aba cadastros, gestores, acessando o cadastro a opção "Habilitar signatário" deverá estar marcada, acessando também a aba perfis, o perfil vinculado ao gestor deverá estar com a opção "Permitir controlar gestores, perfis e assinaturas." marcada.  
+ 
+- `Cadastro da empresa [YM-33]` - Criado um novo recurso no cadastro da empresa. Agora, será possível incluir a logo marca no cadastro da empresa. Acessando o menu lateral, aba cadastros, empresas. A logo marca será levada nos recibos enviados na aba "Transmitir recibos". 
+ 
+### 🌟 Melhorias
+ 
+- `Enviar Documentos [YM-592]` - Melhoria no envio de documentos. A partir de agora, será possível enviar documento com até 5mb.
+ 
+- `Histórico [YM-658]` - Melhoria interna na aba histórico. A partir de agora, pode realizar o filtro sem que seja obrigatório preencher algum campo, flexibilizando as opções do filtro. 
+ 
+---
+
+## Youk Manager v1.9.3 (24/06/2024)
+ 
+### 🌟 Melhorias
+ 
+- `Sistema de notificações [YM-616]` - Ajustes internos na tela do sistema de notificações, para que fique no padrão do sistema.
+
+- `Sistema de notificações [YM-613]` - Melhoria na paginação da tela de notificações. Para que seja levado a quantidade correta de itens da página.
+
 ---
 
 ## Youk Manager v1.9.2 (05/02/2024)
 
 ### 🚀 Novo
 
-- Sistema de notificação [YM-23] - Criado recurso para envio de notificações. Basta acessar a plataforma de gestão, através da aba "comunicação", clicar em "sistema de notificação". Aqui será possível enviar notificação para os colaboradores, incluindo título e a mensagem da notificação que deseja enviar. Você pode ainda enviar a notificação filtrando por empresa, departamento ou por grupo. Os gestores conseguem visualizar o status da notificação, filtrando por agendado, enviado, cancelado e excluído. Ao abrir a notificação, é possível acompanhar o status da mesma, para cada funcionário. Assim ficará sabendo se a notificação está pendente de envio, enviada, entregue ou se já foi visualizada pelo colaborador.  
+- `Sistema de notificações [YM-613]` - Criado recurso para envio de notificações. Basta acessar a plataforma de gestão, através da aba "comunicação", clicar em "sistema de notificação". Aqui será possível enviar notificação para os colaboradores, incluindo título e a mensagem da notificação que deseja enviar. Você pode ainda enviar a notificação filtrando por empresa, departamento ou por grupo. Os gestores conseguem visualizar o status da notificação, filtrando por agendado, enviado, cancelado e excluído. Ao abrir a notificação, é possível acompanhar o status da mesma, para cada funcionário. Assim ficará sabendo se a notificação está pendente de envio, enviada, entregue ou se já foi visualizada pelo colaborador.  
   
 ### 🌟 Melhorias  
 
-- Perfil de acesso [YM-606] - Melhoria interna no perfil de acesso, para que seja possível vincular até 30 empresas no mesmo perfil.
+- `Perfil de acesso [YM-606]` - Melhoria interna no perfil de acesso, para que seja possível vincular até 30 empresas no mesmo perfil.
 
 ---
 

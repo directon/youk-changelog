@@ -1,5 +1,33 @@
 # Novidades da versão
 
+## Youk Manager v1.10.0 (25/09/2024)
+ 
+### 🚀 Novo
+ 
+- `Departamentos [YM-319]` - Departamentos - A partir de agora, será possível associar e realizar transferência dos departamentos em massa. No menu lateral aba departamentos, clicando em associar. Ainda poderá filtrar por empresa, departamentos e por grupos, ficando ainda mais fácil a associação dos departamentos nos colaboradores.
+
+- `Eventos [YM-571]` - Criado um novo tipo de evento. Agora será possível enviar o evento de adiantamento. Será possível enviar acessando o menu lateral clicando em Envio, aba enviar documentos e também por planilha, através da aba transmitir recibos.
+
+- `Histórico [YM-707]` - Criado novo recurso na aba de histórico. A partir de agora será possível realizar o download dos documentos em massa, sendo possível realizar o download por PDF e podendo baixar até 500 arquivos de uma vez. Para realizar o download basta acessar a aba Envio, histórico. Antes de exportar é necessário realizar o filtro, após isso a opção “Exportar” ficará disponível, podendo baixar o PDF dos arquivos originais e assinados. No ícone de download no canto superior direito da tela ficará todos os arquivos que foram baixados pelo sistema.
+ 
+### 🌟 Melhorias
+ 
+- `Avisos [YM-181]` - Melhoria na plataforma do Youk Gestor, para que  mostre o aviso quando a conta tiver inadimplência.
+
+- `Filtro de busca [YM-148]` - Melhoria no filtro de busca. Agora, no filtro de busca é possível filtrar colaboradores ativos, desligados e todos. Padronizando todos os filtros do sistema.
+
+- `Filtro de busca [YM-643]` - Melhoria no filtro de busca. Agora, a descrição de “inativos” foi alterada para “desligados”.
+
+- `Assinatura digital [YM-683]`- Melhoria na assinatura digital, para que a qualidade da assinatura fique ainda melhor.
+
+- `Histórico [YM-708]` - Melhoria na aba histórico, a partir de agora terá o contador dos arquivos que estão na listagem da aba “Histórico”.
+
+### 🔧 Correções
+ 
+- `Mural de avisos [YM-669]` - Ajuste interno para que a notificação do mural de aviso funcione como esperado.
+
+---
+
 ## Youk Manager v1.9.4 (24/06/2024)
  
 ### 🚀 Novo

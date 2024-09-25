@@ -4,7 +4,7 @@
  
 ### 🚀 Novo
  
-- `Departamentos [YM-319]` - Departamentos - A partir de agora, será possível associar e realizar transferência dos departamentos em massa. No menu lateral aba departamentos, clicando em associar. Ainda poderá filtrar por empresa, departamentos e por grupos, ficando ainda mais fácil a associação dos departamentos nos colaboradores.
+- `Departamentos [YM-319]` - A partir de agora, será possível associar e realizar transferência dos departamentos em massa. No menu lateral aba departamentos, clicando em associar. Ainda poderá filtrar por empresa, departamentos e por grupos, ficando ainda mais fácil a associação dos departamentos nos colaboradores.
 
 - `Eventos [YM-571]` - Criado um novo tipo de evento. Agora será possível enviar o evento de adiantamento. Será possível enviar acessando o menu lateral clicando em Envio, aba enviar documentos e também por planilha, através da aba transmitir recibos.
 
@@ -22,7 +22,7 @@
 
 - `Histórico [YM-708]` - Melhoria na aba histórico, a partir de agora terá o contador dos arquivos que estão na listagem da aba “Histórico”.
 
-### 🔧 Correções
+### 🔧 Ajustes
  
 - `Mural de avisos [YM-669]` - Ajuste interno para que a notificação do mural de aviso funcione como esperado.
 
@@ -104,7 +104,7 @@
 
 - `Mural de avisos [YM- 462]` - Ajuste interno na aba “Mural de avisos” para criar o aviso selecionando a empresa, departamento e o grupo que o colaborador pertence. 
 
-### 🔧 Correções
+### 🔧 Ajustes
  
 - `Colaboradores  [YM-442]` - Ajuste interno na aba "Colaboradores", para ao importar os colaboradores exibir a mensagem de aviso sobre quantos colaboradores estão ultrapassando a quantidade disponível na licença. 
 
@@ -125,7 +125,7 @@
 - `Colaborador [YM-424]` - Ajuste para que não seja possível alterar o colaborador para outra empresa, depois do mesmo ter aceitado o vínculo através do Youk App.
 
  
-### 🔧 Correções
+### 🔧 Ajustes
  
 - `Histórico envio de documentos [YM-459]` - Ajuste interno para não carregar os dados de outra conta, caso saia de uma conta e acesse outra, através do mesmo navegador.
 
@@ -147,7 +147,7 @@
 
 - `Importação de recibos [YM-400]` - Melhoria para permitir cadastrar o colaborador através da importação de recibo, mesmo que estiver desativado, caso ele ainda não tenha sido registrado.
 
-### 🔧 Correções
+### 🔧 Ajustes
 
 - `Importação de recibos [YM-400]` - Ajuste interno ao importar o recibo de funcionários demitidos, para que os colaboradores não sejam reativados.
 
@@ -207,7 +207,7 @@
 
 - `Importação de eventos [YM-314]` - Caso faça a transmissão de recibos e na planilha tenha algum colaborador que ainda não está cadastrado na plataforma de gestão, o sistema vai cadastrar esse funcionário com os dados que tem na planilha de recibos, e a transmissão dos eventos continuará sendo feita normalmente.
 
-### 🔧 Correções
+### 🔧 Ajustes
 
 - `Importação de colaborador [YM-296]` - Ajuste interno no arquivo de exemplo da importação de colaboradores.
 
@@ -277,7 +277,7 @@
 
 - `Envio de documentos (Arquivos) [YM-127]` - Ajuste interno para enviar **Informe de Rendimentos por (PDF / Imagem)**, através da tela "Envio". Se essa opção "Envio" não estiver habilitada no menu lateral, deve solicitar ao suporte que habilite, para assim conseguir enviar os Informes de Rendimentos por PDF.
 
-### 🔧 Correções
+### 🔧 Ajustes
 
 - `Envio de documentos (Planilha) [YM-124]` - Foi criada uma proteção para não deixar importar uma planilha com duas ou mais férias do mesmo ano para o mesmo colaborador. Caso precise importar duas férias no mesmo ano para o mesmo colaborador é preciso separá-las em planilhas diferentes. (Ex: Férias do João no mês 03/2021 na planilha A e Férias do João no mês 07/2021 na planilha B).
 
@@ -309,7 +309,7 @@
 
 - `Proteção de importação [YM-101]` - Proteção para que não seja possível importar um documento de folha de pagamento em férias.
 
-### 🔧 Correções
+### 🔧 Ajustes
 
 - `Listagem de empresas [YM-77]` - Realizada uma correção para que seja possível ordenar as empresas por nome curto.
 

@@ -1,6 +1,30 @@
 # Novidades da versão
 
-## Youk Manager v1.10.0 (25/09/2024)
+## Youk Gestor v1.11.0 (20/01/2025)
+ 
+### 🚀 Novo
+ 
+- `Envio de documentos [YM-706]` - Criado novo recurso na aba de envio de documentos. A partir de agora, nos documentos enviado em massa, não será mais necessário que a nomeclatura do PDF contenha o nome ou CPF do colaborador. Selecionando a opção "Importação por Inteligência Artificial" no campo método de identificação, será  possível identificar o CPF do colaborador que está dentro do PDF e o documento será enviado corretamente. Lembrando que, para localizar o colaborador, é necessário que o CPF esteja presente no documento. Este recurso ficará disponível apenas para o envio em massa. 
+
+- `Envio de documentos [YM-22]` - A partir de agora, será possível cancelar um evento que foi enviado para o colaborador. Para ativar o recurso basta acessar a aba, clicando em Histórico, na opção Configurar poderá habilitar o recurso e configurar em até quantos dias após o envio do documento ele poderá ser cancelado pelo gestor. Ao cancelar o documento, no Youk App irá notificar ao colaborador que o evento foi cancelado. 
+
+- `Integrações [YM-704]` - Novo recurso de integração. Agora, será possível integrar o Youk com qualquer outro sistema, com o recurso ativo, os envios dos documentos podem ser feito de forma automatica. Basta acessar o menu lateral, aba outros, clicando em integrações. Para ativar o recurso basta entrar em contato com o setor de vendas. 
+
+- `Envio de documentos [YM-605]`- Criado um novo recurso de solicitações de ajustes. Com essa funcionalidade, o colaborador poderá, por meio do aplicativo Youk, solicitar um ajuste em um documento enviado pelo gestor. O gestor, por sua vez, terá a opção de verificar a solicitação e tomar uma das seguintes ações: aceitar e enviar um novo documento com as informações corrigidas, ou rejeitar a solicitação. Em ambos os casos, o colaborador será notificado diretamente pelo Youk App. Para ativar o recurso, acesse o menu lateral, vá até a aba "Envio", clique na opção "Solicitações de Ajustes" e, em seguida, ative o recurso selecionando "Configurar".
+ 
+### 🌟 Melhorias
+ 
+- `Histórico [YM-596]` - Melhoria no filtro do histórico. A partir de agora será possível realizar o filtro por departamento.
+
+- `Evento [YM-719]` - Melhoria na folha de assinatura. Agora, será levado na folha de assinatura qual o tipo de evento que foi assinado pelo colaborador. 
+ 
+### 🔧 Correções
+ 
+- `Perfil de acesso [YM-731]` - Ajuste interno no perfil de acesso, para que funcione como esperado. 
+ 
+---
+
+## Youk Gestor v1.10.0 (25/09/2024)
  
 ### 🚀 Novo
  
@@ -28,7 +52,7 @@
 
 ---
 
-## Youk Manager v1.9.4 (24/06/2024)
+## Youk Gestor v1.9.4 (24/06/2024)
  
 ### 🚀 Novo
  
@@ -44,7 +68,7 @@
  
 ---
 
-## Youk Manager v1.9.3 (24/06/2024)
+## Youk Gestor v1.9.3 (24/06/2024)
  
 ### 🌟 Melhorias
  
@@ -54,7 +78,7 @@
 
 ---
 
-## Youk Manager v1.9.2 (05/02/2024)
+## Youk Gestor v1.9.2 (05/02/2024)
 
 ### 🚀 Novo
 
@@ -66,7 +90,7 @@
 
 ---
 
-## Youk Manager v1.9.0 (21/11/2023)
+## Youk Gestor v1.9.0 (21/11/2023)
  
 ### 🚀 Novo
  
@@ -84,7 +108,7 @@
 
 ---
 
-## Youk Manager v1.8.0 (18/09/2023)
+## Youk Gestor v1.8.0 (18/09/2023)
  
 ### 🌟 Melhorias
  
@@ -110,7 +134,7 @@
 
 ---
 
-## Youk Manager v1.7.0 (11/07/2023)
+## Youk Gestor v1.7.0 (11/07/2023)
  
 ### 🚀 Novo
  
@@ -131,7 +155,7 @@
 
 ---
 
-## Youk Manager 1.6.0 (18/04/2023)
+## Youk Gestor 1.6.0 (18/04/2023)
 
 ### 🌟 Melhorias
 
@@ -153,7 +177,7 @@
 
 ---
 
-## Youk Manager 1.5.1 (10/04/2023)
+## Youk Gestor 1.5.1 (10/04/2023)
 
 ### 🌟 Melhorias
 
@@ -173,7 +197,7 @@
 
 ---
 
-## Youk Manager 1.5.0 (17/03/2023)
+## Youk Gestor 1.5.0 (17/03/2023)
 
 ### 🚀 Novo
 
@@ -181,7 +205,7 @@
 
 ---
 
-## Youk Manager 1.4.0 (23/02/2023)
+## Youk Gestor 1.4.0 (23/02/2023)
 
 ### 🚀 Novo
 
@@ -223,7 +247,7 @@
 
 ---
 
-## Youk Manager 1.3.0 (10/11/2022)
+## Youk Gestor 1.3.0 (10/11/2022)
 
 ### 🌟 Melhorias
 
@@ -265,7 +289,7 @@
 
 ---
 
-## Youk Manager 1.2.1 (19/01/2022)
+## Youk Gestor 1.2.1 (19/01/2022)
 
 ### 🌟 Melhorias
 
@@ -295,7 +319,7 @@
 
 ---
 
-## Youk Manager 1.2.0 (14/12/2021)
+## Youk Gestor 1.2.0 (14/12/2021)
 
 ### 🚀 Novo
 

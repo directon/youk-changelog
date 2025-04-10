@@ -1,5 +1,22 @@
 # Novidades da versão
 
+## Youk Gestor v1.12.0 (10/04/2025)
+
+## 🚀 Novo 
+
+- `Perfil de acesso [YM-653]` - Criado novo recurso de perfil de acesso. Essa nova funcionalidade permite criar perfis de acesso personalizados para os gestores. Com esse novo recurso, é possível limitar o acesso a telas, empresas e ações específicas de cada gestor. Para configurar, basta acessar o menu lateral, selecionar 'Cadastros', depois 'Perfis', clicar em 'Adicionar' e definir as restrições desejadas."
+
+- `Envio de documentos [YM-654]` - Criado novo recurso do envio de  PDF unificado. O sistema passa a permitir o envio em massa do PDF unificado. Ele lê o CPF no documento e, com inteligência artificial, junta automaticamente as páginas seguintes ao colaborador, mesmo que o CPF não esteja nelas. Basta acessar o menu lateral, 'Envios',  clicando em 'Enviar Documentos', selecionando o  tipo de envio em massa, escolha o método de identificação  'Importação por Inteligência Artificial' e marque a opção 'PDF Unificado'. 
+
+## 🌟 Melhorias
+
+- `Cancelamento em massa [YM-765]` - Melhoria interna para possibilitar a realização de cancelamento em massa de um evento que foi enviado para aos colaboradores. Para ativar o recurso basta acessar a aba envio, clicando em histórico, ao selecionar a opção "Configurar" poderá habilitar o recurso e configurar em até quantos dias após o envio do documento ele poderá ser cancelado pelo gestor. Feito isso, aplique um filtro, selecione os funcionários e clique em "Cancelar".
+Ao cancelar o documento, o Youk App irá notificar ao colaborador que o evento foi cancelado.
+
+- `Inteligência artificial [YM-783]` - Ajuste interno no funcionamento da inteligência artificial, para que funcione conforme o esperado em todos os cenários.
+ 
+- `Envio de documentos [YM-873]` - Ajuste interno para quando o método de importação for por inteligência artificial, e conter imagem no PDF, conseguir identificar o colaborador.
+
 ## Youk Gestor v1.11.0 (20/01/2025)
  
 ### 🚀 Novo
